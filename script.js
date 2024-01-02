@@ -4,7 +4,7 @@ const constants = {
     location: "location",
     x: "x",
     getElementsByClassName: "getElementsByClassName",
-    ipApiUrl: "http://ip-api.com/json/",
+    ipApiUrl: "https://ip-api.com/json/",
     cursor: "cursor",
     style: "style",
     documentElement: "documentElement",
